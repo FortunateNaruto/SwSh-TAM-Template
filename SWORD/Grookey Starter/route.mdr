@@ -1,5 +1,13 @@
-:::tracker{species="$tam" nature="" hpIV= attackIV= defenseIV= spAttackIV= spDefenseIV= speedIV= generation=8 baseStats="[[]]"}
+:::tracker{species="$tam" type="" nature="" hpIV= attackIV= defenseIV= spAttackIV= spDefenseIV= speedIV= generation=8 baseStats="[[]]"}  
 7:
+:::
+:::debug
+Basic template for ranges, copy and paste these and then add the stats into trainer blocks
+::damage[$ohkorange]{source="$tam" level= type= evolution=0 combatStages=0 special=true offensive=true healthThreshold= theme=error movePower= }
+
+::damage[$damagedone]{source="$tam" level= type= evolution=0 combatStages=0 special=true offensive=true theme=error movePower= }
+
+::damage[$damagetaken{source="$tam" level= type= evolution=0 combatStages=0 special=true offensive=false theme=error movePower= }
 :::
 
 :::card{theme=info}
