@@ -561,7 +561,7 @@ Go down **left side** for the **restaurant**
   :::::pokemon[Dubwool]{baseStats="[72, 80, 100, 60, 90, 88]" ivs="[5,5,5,5,5,5]" level=40 nature="Hasty" type="Normal"}
      - 
   :::::
-  :::::pokemon[Corviknight]{baseStats="[98, 87, 105, 53, 85, 67]" ivs="15,15,15,15,15,15]" level=40 nature="Jolly" type="Flying/Steel"}
+  :::::pokemon[Corviknight]{baseStats="[98, 87, 105, 53, 85, 67]" ivs="[15,15,15,15,15,15]" level=40 nature="Jolly" type="Flying/Steel"}
      - 
   :::::
   :::::pokemon[Snorlax]{baseStats="[160, 110, 65, 65, 110, 30]" ivs="[10,10,10,10,10,10]" level=39 nature="Bold" type="Normal"}
@@ -631,7 +631,7 @@ Head inside **Spikemuth**
 :::::::
 
 :::::::trainer[Team Yell Grunt]
-  :::::pokemon[Weavile]{baseStats="70, 120, 65, 45, 85, 125]" ivs="[0,0,0,0,0,0]" level=43 nature="Careful" type="Dark/Ice"}
+  :::::pokemon[Weavile]{baseStats="[70, 120, 65, 45, 85, 125]" ivs="[0,0,0,0,0,0]" level=43 nature="Careful" type="Dark/Ice"}
      - 
   :::::
 :::::::
@@ -811,10 +811,10 @@ North-East
 ![North East](northeast.png)
 
 :::::::trainer[Macro Cosmos’s Eric 1 (Speed +2)]
-  :::::pokemon[Meowth]{baseStats="[50, 65, 55, 40, 40, 40}]" ivs="[0,0,0,0,0,0]" level=47 nature="Jolly" type="Steel"}
+  :::::pokemon[Meowth]{baseStats="[50, 65, 55, 40, 40, 40]" ivs="[0,0,0,0,0,0]" level=47 nature="Jolly" type="Steel"}
      - 
   :::::
-  :::::pokemon[Durant]{baseStats="[58, 109, 112, 48, 48, 109]" ivs="[0,0,0,0,0,0]" level=47 nature="JollyJolly" type="Bug/Steel"}
+  :::::pokemon[Durant]{baseStats="[58, 109, 112, 48, 48, 109]" ivs="[0,0,0,0,0,0]" level=47 nature="Jolly" type="Bug/Steel"}
      - 
   :::::
 :::::::
